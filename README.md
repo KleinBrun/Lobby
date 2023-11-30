@@ -13,6 +13,6 @@ Bienvenidos al proyecto. Para garantizar un funcionamiento correcto, es necesari
 
 6. Iniciar el servidor de backend: En la carpeta "back" renombren el archivo ".env.example" a ".env" , abran una consola y ejecuten los siguientes comandos: "composer install" y esperamos que se insatalen los paquetes , luego "php artisan migrate" y luego "php artisan serve". Mantengan la consola abierta con el último comando en ejecución.
 
-7. Iniciar el servidor de frontend: En la carpeta "front", abran una nueva consola sin cerrar la anterior y ejecuten el comando "npm run serve". Mantengan esta consola abierta para que el servidor quede activo.
+7. Iniciar el servidor de frontend: En la carpeta "front", abran una nueva consola sin cerrar la anterior y ejecuten el comando "npm install" y esperamos que se instalen los paquetes, luego  "npm run serve". Mantengan esta consola abierta para que el servidor quede activo.
 
 Con estos pasos, ambos servidores estarán funcionando. Por lo general, podrán acceder al proyecto a través de la siguiente ruta: http://localhost:8080/. Esta dirección se mostrará en la ventana de comandos. Solo tienen que abrir esa ruta en su navegador y ¡listo!
