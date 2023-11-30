@@ -1,5 +1,6 @@
 # Hoteleria Lobby
-Bienvenidos al proyecto. Para garantizar un funcionamiento correcto, es necesario seguir los siguientes pasos:
+Bienvenidos al proyecto.
+Para garantizar un funcionamiento correcto, es necesario seguir los siguientes pasos:
 
 1. Instalar XAMPP: Descarguen e instalen XAMPP, una plataforma que incluye Apache y MySQL.
 
