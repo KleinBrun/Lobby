@@ -11,7 +11,7 @@ Bienvenidos al proyecto. Para garantizar un funcionamiento correcto, es necesari
 
 5. Descargar el repositorio: Descarguen el repositorio y colóquenlo dentro de la carpeta que crearon en el htdocs. El repositorio contiene una carpeta llamada lobby y dentro  dos carpetas: "front" y "back". ( git clone https://github.com/KleinBrun/Lobby.git )
 
-6. Iniciar el servidor de backend: En la carpeta "back", abran una consola y ejecuten los siguientes comandos: "composer install" , luego "php artisan migrate" y luego "php artisan serve". Mantengan la consola abierta con el último comando en ejecución.
+6. Iniciar el servidor de backend: En la carpeta "back" renombren el archivo ".env.example" a ".env" , abran una consola y ejecuten los siguientes comandos: "composer install" , luego "php artisan migrate" y luego "php artisan serve". Mantengan la consola abierta con el último comando en ejecución.
 
 7. Iniciar el servidor de frontend: En la carpeta "front", abran una nueva consola sin cerrar la anterior y ejecuten el comando "npm run serve". Mantengan esta consola abierta para que el servidor quede activo.
 
