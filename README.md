@@ -9,7 +9,7 @@ Bienvenidos al proyecto. Para garantizar un funcionamiento correcto, es necesari
 
 4. Preparar el entorno: Dentro de la ruta htdocs (C:\xampp\htdocs) de XAMPP, creen una carpeta con cualquier nombre. Esta carpeta será el destino de los archivos del proyecto.
 
-5. Descargar el repositorio: Descarguen el repositorio y colóquenlo dentro de la carpeta que crearon en el htdocs. El repositorio contiene dos carpetas: "front" y "back".
+5. Descargar el repositorio: Descarguen el repositorio y colóquenlo dentro de la carpeta que crearon en el htdocs. El repositorio contiene dos carpetas: "front" y "back". ( git clone https://github.com/KleinBrun/Lobby.git )
 
 6. Iniciar el servidor de backend: En la carpeta "back", abran una consola y ejecuten los siguientes comandos: "php artisan migrate" y luego "php artisan serve". Mantengan la consola abierta con el último comando en ejecución.
 
